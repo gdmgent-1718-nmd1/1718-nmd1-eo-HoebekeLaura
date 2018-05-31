@@ -16,3 +16,45 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+table{
+    border-spacing:5px;
+}
+
+th, td {
+    padding: 15px;
+    border-spacing:0px;
+    font-size: 90%;
+    margin: 0px;
+}
+th, td {
+    text-align:left;
+    background-color: #e0e9f0;
+    border-top: 2px solid #f1f8fe;
+    border-bottom: 2px solid #ffffff;
+    border-right: 2px solid #cbd2d8;
+}
+
+tr.head th {
+    color: #ffffff;
+    background-color: rgb(221, 59, 59);
+    border-bottom: 2px solid rgb(221, 59, 59) ;
+    border-right: 1 px solid rgb(221, 59, 59);
+    border-top: 1px solid rgb(221, 59, 59); 
+    text-align: center; 
+    letter-spacing: 0.10em;
+
+}
+tr.head th:first-child{
+    background-color: rgb(0, 199, 33);
+    border-bottom: 2px solid  rgb(0, 199, 33);
+    border-right: 1 px solid  rgb(0, 199, 33);
+    border-top: 1px solid  rgb(0, 199, 33);
+}
+
+td{
+    text-shadow:1px 1px 1px #ffffff;
+}
+
+
+
+
