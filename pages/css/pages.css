@@ -141,7 +141,7 @@ img.Logo1{
 
 .HOME:hover{
     background-color: black;
-    color: rgb(0, 255,203);
+    color: rgb(239, 26, 225);
 }
 
 .LINE-UP{
@@ -181,6 +181,7 @@ img.Logo1{
 
 .TICKETS:hover{
     background-color: black;
+    color: rgb(33, 251,0);
 }
 .MERCH{
     background-color:rgb(255, 230,0);
