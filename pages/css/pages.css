@@ -80,6 +80,7 @@ img.Logo1{
     margin-left: 15px; 
     display: inline-block;
     color: white;
+    text-align: center; 
 }
 
 .swatch2{
@@ -108,8 +109,8 @@ img.Logo1{
     width: 135px;
     height: 135px; 
     padding: 10px; 
-    margin-left: 25px; 
-    
+    margin-left: 15px; 
+    display: inline-block;
     color: white; 
     text-align: center;
 }
