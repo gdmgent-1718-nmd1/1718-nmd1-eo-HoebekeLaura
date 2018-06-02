@@ -57,7 +57,7 @@ td{
 
 /*Logo uitleg opsommingstekens*/
 ul {
-   width: 1000px;
+   width: 450px;
 }
 li { 
     margin: 10px;
@@ -69,17 +69,7 @@ ul.opsomminglogo {
 /*Logo Neonfestival*/ 
 img.Logo1{
     width: 500px; 
-    height: 320px;
-}
-
-
-table.kleur {
-    empty-cells: show; }
-
-#horizontal-line {
-    width:1px;
-    height: 500px;
-    background-color: silver;
+    height: 350px;
 }
 
 
