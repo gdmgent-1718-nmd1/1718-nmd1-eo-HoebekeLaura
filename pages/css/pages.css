@@ -130,7 +130,7 @@ img.Logo1{
 }
 
 .LINE-UP{
-    background-color: rgb(239, 26, 225);
+    background-color: rgb(0, 255,203);
     color: white; 
     text-align: center; 
     padding: 15px 25px; 
@@ -138,4 +138,48 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
 }
+
+.TICKETS{
+    background-color: rgb(33, 251,0);
+    color: white; 
+    text-align: center; 
+    padding: 15px 25px; 
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.FOOD{
+    background-color:rgb(239, 26, 225);
+    color: white; 
+    text-align: center; 
+    padding: 15px 25px; 
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.INFO{
+    background-color: rgb(255, 230,0);
+    color: white; 
+    text-align: center; 
+    padding: 15px 25px; 
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.CONTACT{
+    background-color: rgb(255, 230,0);
+    color: white; 
+    text-align: center; 
+    padding: 15px 25px; 
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+
+
 
