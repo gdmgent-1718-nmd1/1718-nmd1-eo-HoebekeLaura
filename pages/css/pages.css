@@ -146,6 +146,7 @@ img.Logo1{
     font-size: 16px;
     float: left;
     border: none; 
+    cursor: pointer;
 }
 
 .TICKETS{
@@ -157,7 +158,8 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
-    border: none; 
+    border: none;
+    cursor: pointer; 
 }
 
 .MERCH{
@@ -170,6 +172,7 @@ img.Logo1{
     font-size: 16px;
     float: left;
     border: none; 
+    cursor: pointer;
 }
 
 .FOOD{
@@ -182,6 +185,7 @@ img.Logo1{
     font-size: 16px;
     float: left;
     border: none; 
+    cursor: pointer;
 }
 
 
@@ -195,6 +199,7 @@ img.Logo1{
     font-size: 16px;
     float: left;
     border: none; 
+    cursor: pointer;
 }
 .CONTACT{
     background-color:rgb(33, 251,0);
@@ -206,6 +211,8 @@ img.Logo1{
     font-size: 16px;
     float: left;
     border: none; 
+    cursor: pointer;
+
 }
 
 
