@@ -269,17 +269,19 @@ img.Logo1{
     background-color: rgb(255, 230,0);
     color: white; 
     text-align: center; 
-    padding: 15px 25px; 
+    padding: 10px 20px; 
     font-family: 'raleway', sans-serif;
     font-weight: bold;
     font-size: 16px;
     float: left;
     border: none; 
-    cursor: pointer;
-    width: 50px; 
-    height: 50px;  
-    border-radius: 50px;
+    cursor: pointer;  
+    border-radius: 100px;
+    background-image: url('img_524293.png');
 }
 
+.zoek:hover{
+        background-color: black;
+        color:rgb(255, 230,0);
 
-
+}
