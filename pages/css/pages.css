@@ -127,6 +127,8 @@ img.Logo1{
     font-family: 'raleway', sans-serif;
     font-weight: bold;
     font-size: 16px;
+    cursor: pointer;
+    float: left;
 }
 
 .LINE-UP{
@@ -137,6 +139,7 @@ img.Logo1{
     font-family: 'raleway', sans-serif;
     font-weight: bold;
     font-size: 16px;
+    float: left;
 }
 
 .TICKETS{
