@@ -55,17 +55,22 @@ td{
     text-shadow:1px 1px 1px #ffffff;
 }
 
+/*Logo uitleg opsommingstekens*/
 ul {
    width: 250px;
 }
-
 li { 
     margin: 10px;
 }
-
 ul.opsomminglogo {
     List-style-position: outside;
-
 }
+
+/*Logo Neonfestival*/ 
+img. logo1{
+    width: 200px; 
+    height: 80px;
+}
+
 
 
