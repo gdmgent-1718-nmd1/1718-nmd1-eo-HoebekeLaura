@@ -72,19 +72,53 @@ img.Logo1{
     height: 350px;
 }
 
-.vierkant1{
-    background-color: rgb(238, 26, 225);
+.swatch1{
+    background-color: rgb(239, 26, 225);
     width: 100px;
     height: 100px; 
+    padding: 10px; 
+    margin-left: 15px; 
+    display: inline-block;
+    color: black;
+}
+
+.swatch2{
+    background-color: rgb(255, 230,0);
+    width: 100px;
+    height: 100px; 
+    padding: 10px; 
+    margin-left: 15px; 
+    display: inline-block;
+   
+}
+
+.swatch2{
+    background-color: rgb(255, 230,0);
+    width: 100px;
+    height: 100px; 
+    padding: 10px; 
+    margin-left: 15px; 
+    display: inline-block;
 
 }
 
-.vierkant2{
-    background-color: rgb(238, 26, 225);
+.swatch3{
+    background-color: rgb(33, 251,0);
     width: 100px;
     height: 100px; 
+    padding: 10px; 
+    margin-left: 15px; 
+    display: inline-block;
 }
 
+.swatch4{
+    background-color: rgb(0, 255,203);
+    width: 100px;
+    height: 100px; 
+    padding: 10px; 
+    margin-left: 15px; 
+    display: inline-block;
+}
 
 
 
