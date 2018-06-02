@@ -197,7 +197,7 @@ img.Logo1{
     width: 160px; 
     height: 50px
 }
-.TICKETS:hover{
+.MERCH:hover{
     background-color: black;
     color: rgb(255, 230,0);
 }
@@ -217,7 +217,7 @@ img.Logo1{
     height: 50px
 }
 
-.TICKETS:hover{
+.FOOD:hover{
     background-color: black;
     color:rgb(239, 26, 225);
 }
@@ -238,6 +238,12 @@ img.Logo1{
     width: 160px; 
     height: 50px
 }
+
+.FOOD:hover{
+    background-color: black;
+    color:rgb(0, 255,203);
+}
+
 .CONTACT{
     background-color:rgb(33, 251,0);
     color: white; 
