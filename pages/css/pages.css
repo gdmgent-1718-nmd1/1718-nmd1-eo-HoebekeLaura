@@ -57,7 +57,7 @@ td{
 
 /*Logo uitleg opsommingstekens*/
 ul {
-   width: 450px;
+   width: 1000px;
 }
 li { 
     margin: 10px;
@@ -70,6 +70,19 @@ ul.opsomminglogo {
 img.Logo1{
     width: 500px; 
     height: 350px;
+}
+
+.vierkant1{
+    background-color: rgb(238, 26, 225);
+    width: 100px;
+    height: 100px; 
+
+}
+
+.vierkant2{
+    background-color: rgb(238, 26, 225);
+    width: 100px;
+    height: 100px; 
 }
 
 
