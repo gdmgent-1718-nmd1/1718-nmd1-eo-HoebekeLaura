@@ -119,14 +119,23 @@ img.Logo1{
 
 
 
-.Home knop{
+.HOME{
     background-color: rgb(239, 26, 225);
     color: white; 
     text-align: center; 
     padding: 15px 25px; 
-    
-    
-
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
 }
 
+.LINE-UP{
+    background-color: rgb(239, 26, 225);
+    color: white; 
+    text-align: center; 
+    padding: 15px 25px; 
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
 
