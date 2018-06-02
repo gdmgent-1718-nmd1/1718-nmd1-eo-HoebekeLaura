@@ -264,8 +264,10 @@ img.Logo1{
     color:rgb(33, 251,0);
 }
 
-
-
+/*zoekfunctie knopje*/
+.ZOEK{
+    float: left;
+}
 
 
 
