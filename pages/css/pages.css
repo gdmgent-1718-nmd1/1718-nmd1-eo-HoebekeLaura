@@ -55,6 +55,17 @@ td{
     text-shadow:1px 1px 1px #ffffff;
 }
 
+ul {
+   width: 250px;
+}
 
+li { 
+    margin: 10px;
+}
+
+ul.opsomminglogo {
+    List-style-position: outside;
+
+}
 
 
