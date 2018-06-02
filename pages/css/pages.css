@@ -109,11 +109,12 @@ img.Logo1{
     height: 135px; 
     padding: 10px; 
     margin-left: 25px; 
-    display: inline-block;
+    
     color: white; 
+    text-align: center;
 }
 
-.swatch4{
+.swatch{
     background-color:;
     width: 10px;
     height: 100px; 
