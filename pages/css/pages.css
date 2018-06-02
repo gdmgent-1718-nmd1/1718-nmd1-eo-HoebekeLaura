@@ -121,6 +121,7 @@ img.Logo1{
     font-weight: bold;
 }
 
+/*navigatiebar*/
 
 
 .HOME{
@@ -134,6 +135,12 @@ img.Logo1{
     cursor: pointer;
     float: left;
     border: none; 
+    width: 160px; 
+    height: 50px
+}
+
+.HOME:hover{
+    background-color: black;
 }
 
 .LINE-UP{
@@ -147,6 +154,12 @@ img.Logo1{
     float: left;
     border: none; 
     cursor: pointer;
+    width: 160px; 
+    height: 50px
+}
+
+.LINE-UP:hover{
+    background-color: black;
 }
 
 .TICKETS{
@@ -159,7 +172,9 @@ img.Logo1{
     font-size: 16px;
     float: left;
     border: none;
-    cursor: pointer; 
+    cursor: pointer;
+    width: 160px; 
+    height: 50px
 }
 
 .MERCH{
@@ -173,6 +188,8 @@ img.Logo1{
     float: left;
     border: none; 
     cursor: pointer;
+    width: 160px; 
+    height: 50px
 }
 
 .FOOD{
@@ -186,6 +203,8 @@ img.Logo1{
     float: left;
     border: none; 
     cursor: pointer;
+    width: 160px; 
+    height: 50px
 }
 
 
@@ -200,6 +219,8 @@ img.Logo1{
     float: left;
     border: none; 
     cursor: pointer;
+    width: 160px; 
+    height: 50px
 }
 .CONTACT{
     background-color:rgb(33, 251,0);
@@ -212,6 +233,9 @@ img.Logo1{
     float: left;
     border: none; 
     cursor: pointer;
+    width: 160px; 
+    height: 50px;
+    
 
 }
 
