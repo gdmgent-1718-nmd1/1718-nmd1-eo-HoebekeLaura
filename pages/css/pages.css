@@ -26,7 +26,13 @@ th, td {
     font-size: 90%;
     margin: 0px;
 }
-
+th, td {
+    text-align:left;
+    background-color: #e0e9f0;
+    border-top: 2px solid #f1f8fe;
+    border-bottom: 2px solid #ffffff;
+    border-right: 2px solid #cbd2d8;
+}
 
 tr.head th {
     color: #ffffff;
@@ -127,6 +133,7 @@ img.Logo1{
     font-size: 16px;
     cursor: pointer;
     float: left;
+    border: none; 
 }
 
 .LINE-UP{
@@ -138,6 +145,7 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
+    border: none; 
 }
 
 .TICKETS{
@@ -149,6 +157,7 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
+    border: none; 
 }
 
 .MERCH{
@@ -160,6 +169,7 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
+    border: none; 
 }
 
 .FOOD{
@@ -171,6 +181,7 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
+    border: none; 
 }
 
 
@@ -183,6 +194,7 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
+    border: none; 
 }
 .CONTACT{
     background-color:rgb(33, 251,0);
@@ -193,6 +205,7 @@ img.Logo1{
     font-weight: bold;
     font-size: 16px;
     float: left;
+    border: none; 
 }
 
 
