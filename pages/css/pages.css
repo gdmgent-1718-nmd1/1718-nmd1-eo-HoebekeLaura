@@ -72,15 +72,11 @@ img.Logo1{
     height: 320px;
 }
 
-td {
-    border: 1px solid #0088dd;s
-    padding: 15px; 
-}
 
 table.kleur {
     empty-cells: show; }
 
-.verticle-line {
+#horizontal-line {
     width:1px;
     height: 500px;
     background-color: silver;
