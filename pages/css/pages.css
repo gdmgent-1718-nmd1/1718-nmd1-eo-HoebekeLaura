@@ -287,14 +287,14 @@ img.Logo1{
 
 }
 
-.slaapplaats{
+.SLAAPPLAATS{
     background-color: rgb(33, 251,0);
     color: white; 
     text-align: center; 
-    padding: 30px 60px; 
+    padding: 10px 35px; 
     font-family: 'raleway', sans-serif;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
     float: left;
     border: none; 
     cursor: pointer;  
@@ -302,8 +302,8 @@ img.Logo1{
 
 }
 
-.slaapplaats:hover{
-    background-color: white;
-    color:rgb(33, 251,0);
+.SLAAPPLAATS:hover{
+    background-color: black;
+    color: rgb(33, 251,0);
 
 }
