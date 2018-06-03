@@ -406,39 +406,4 @@ img.Logo1{
 
 
 /*Social media iconen*/
-.fa {
-    padding: 20px;
-    font-size: 20px;
-    width: 30px;
-    height: 30px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 50%;
-  }
-
-  .fa:hover {
-   background-color: gray;
-    color:black;
-}
-
-.fa-facebook {
-    background: black;
-    color: white;
-  }
-
-.fa-twitter {
-    background: black;
-    color: white;
-  }
-
-.fa-youtube {
-    background: black;
-    color: white;
-  }
-  
-.fa-instagram {
-    background: black;
-    color: white;
-  }
-
 
