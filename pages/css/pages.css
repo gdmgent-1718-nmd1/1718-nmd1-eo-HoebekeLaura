@@ -269,7 +269,7 @@ img.Logo1{
 .zoek{
     background-color: rgb(255, 230,0);
     color: white; 
-    text-align: center; 
+    text-align: right; 
     padding: 10px 20px; 
     font-family: 'raleway', sans-serif;
     font-weight: bold;
@@ -278,7 +278,8 @@ img.Logo1{
     border: none; 
     cursor: pointer;  
     border-radius: 100px;
-    
+    Width: 100px;
+    height: 50px;
     
 }
 
@@ -331,17 +332,14 @@ img.Logo1{
 .KOOP:hover{
     background-color: white;
     color: rgb(0, 255,203);
-    border-top: 2px solid gray;
-    border-bottom: 2px solid gray;
-    border-right: 2px solid gray;
-    border-left: 2px solid gray;
+    
 }
 
 .betaling{
     background-color:rgb(255, 230,0);
     color: white; 
     text-align: center; 
-    height: 100px;
+    height: 50px;
     width: 250px;
     font-family: 'raleway', sans-serif;
     font-weight: bold;
@@ -349,14 +347,16 @@ img.Logo1{
     float: left;
     border: none; 
     cursor: pointer;  
-    border-radius: 50px ;
+    border-radius: 50px;
+   
 
 }
 
 .betaling:hover{
     background-color: white;
-    color: rgb(255, 230,0)
-
+    color: rgb(255, 230,0);
+    
+   
 }
 
 .plus{
@@ -372,6 +372,7 @@ img.Logo1{
     border: none; 
     cursor: pointer;  
     border-radius: 50px;
+   
 
 }
 
