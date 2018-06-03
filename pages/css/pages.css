@@ -288,10 +288,10 @@ img.Logo1{
 }
 
 .slaapplaats{
-    background-color: rgb(255, 230,0);
+    background-color: rgb(33, 251,0);
     color: white; 
     text-align: center; 
-    padding: 10px 20px; 
+    padding: 30px 60px; 
     font-family: 'raleway', sans-serif;
     font-weight: bold;
     font-size: 16px;
@@ -302,8 +302,8 @@ img.Logo1{
 
 }
 
-.zoek:hover{
+.slaapplaats:hover{
     background-color: white;
-    color:rgb(255, 230,0);
+    color:rgb(33, 251,0);
 
 }
