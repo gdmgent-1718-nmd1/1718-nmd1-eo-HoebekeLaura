@@ -324,7 +324,7 @@ img.Logo1{
 }
 
 .KOOP:hover{
-    background-color: black;
+    background-color: white;
     color: rgb(0, 255,203);
 }
 
@@ -344,6 +344,8 @@ img.Logo1{
 }
 
 .betaling:hover{
-    background-color: black;
+    background-color: white;
     color: rgb(255, 230,0);
 }
+
+
