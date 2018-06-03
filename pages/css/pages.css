@@ -411,11 +411,9 @@ img.Logo1{
 .fa{
     background-color: black;
     color: white;
-    
     padding: 20px;
     width: 20px; 
     height: 20px;
-    margin: center;
     text-align: center;
     text-decoration: none; 
     border-radius:50px; 
