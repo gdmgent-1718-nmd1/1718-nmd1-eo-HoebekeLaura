@@ -279,12 +279,13 @@ img.Logo1{
     cursor: pointer;  
     border-radius: 100px;
     
+    
 }
 
 .zoek:hover{
         background-color: black;
         color:rgb(255, 230,0);
-
+    
 }
 
 .SLAAPPLAATS{
@@ -292,13 +293,15 @@ img.Logo1{
     color: white; 
     text-align: center; 
     padding: 10px 35px; 
-    font-family: 'raleway', sans-serif;
+    font-family:'raleway', sans-serif;
     font-weight: bold;
     font-size: 18px;
     float: left;
     border: none; 
     cursor: pointer;  
     border-radius: 100px;
+    Width: 250px;
+    height: 50px;
 
 }
 
@@ -320,32 +323,40 @@ img.Logo1{
     border: none; 
     cursor: pointer;  
     border-radius: 100px;
+    Width: 200px;
+    height: 50px;
 
 }
 
 .KOOP:hover{
     background-color: white;
     color: rgb(0, 255,203);
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    border-left: 2px solid gray;
 }
 
 .betaling{
     background-color:rgb(255, 230,0);
     color: white; 
     text-align: center; 
-    padding: 10px 35px; 
+    height: 100px;
+    width: 250px;
     font-family: 'raleway', sans-serif;
     font-weight: bold;
     font-size: 16px;
     float: left;
     border: none; 
     cursor: pointer;  
-    border-radius: 100px;
+    border-radius: 50px ;
 
 }
 
 .betaling:hover{
     background-color: white;
-    color: rgb(255, 230,0);
+    color: rgb(255, 230,0)
+
 }
 
 .plus{
@@ -389,5 +400,6 @@ img.Logo1{
     background-color: black;
     color: rgb(239, 26, 225);
 }
+
 
 
