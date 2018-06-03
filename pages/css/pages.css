@@ -328,7 +328,7 @@ img.Logo1{
     color: rgb(0, 255,203);
 }
 
-.Verdergaan met betaling{
+.betaling{
     background-color:rgb(255, 230,0);
     color: white; 
     text-align: center; 
@@ -343,7 +343,7 @@ img.Logo1{
 
 }
 
-.Verdergaan met betaling:hover{
+.betaling:hover{
     background-color: black;
-    color: rgb(0, 255,203);
+    color: rgb(255, 230,0);
 }
