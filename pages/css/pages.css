@@ -294,7 +294,7 @@ img.Logo1{
     padding: 10px 35px; 
     font-family: 'raleway', sans-serif;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 18px;
     float: left;
     border: none; 
     cursor: pointer;  
@@ -324,6 +324,26 @@ img.Logo1{
 }
 
 .KOOP:hover{
+    background-color: black;
+    color: rgb(0, 255,203);
+}
+
+.Verdergaan met betaling{
+    background-color:rgb(255, 230,0);
+    color: white; 
+    text-align: center; 
+    padding: 10px 35px; 
+    font-family: 'raleway', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    float: left;
+    border: none; 
+    cursor: pointer;  
+    border-radius: 100px;
+
+}
+
+.Verdergaan met betaling:hover{
     background-color: black;
     color: rgb(0, 255,203);
 }
